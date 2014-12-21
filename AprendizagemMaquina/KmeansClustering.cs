@@ -291,7 +291,7 @@ namespace AprendizagemMaquina
 					} // j
 				} // total por cluster igual a 0
 			} // i
-			// teste
+
 			Array.Copy(novosClusteres, this.clusteres, novosClusteres.Length);
 
 			return true; // clusterizacao funcionou e houve mudanca
